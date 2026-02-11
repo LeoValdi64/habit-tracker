@@ -49,6 +49,15 @@ export default function RootLayout({
                 "Track your daily habits, maintain streaks, and build a better you. A modern habit tracker with categories, weekly progress, and detailed stats.",
               url: "https://habit-tracker-five-blush.vercel.app",
               applicationCategory: "LifestyleApplication",
+              operatingSystem: "Any",
+              browserRequirements: "Requires JavaScript",
+              offers: {
+                "@type": "Offer",
+                price: "0",
+                priceCurrency: "USD",
+              },
+              featureList:
+                "Daily habit tracking, streak management, categories, weekly progress, detailed statistics",
             }),
           }}
         />
